@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-filter
+pillow
+pytest-django
+model-bakery
+Faker
+openpyxl
+pyotp
+qrcode
